@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Contact
 layout: advanced
 page_css_class: gray-background
 sections:
